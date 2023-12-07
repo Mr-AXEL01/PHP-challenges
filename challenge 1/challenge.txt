@@ -1,0 +1,2 @@
+challenge 1 :  
+                ==> create a page php and declare defferent variable to generate different sentences.
