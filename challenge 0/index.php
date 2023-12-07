@@ -9,8 +9,9 @@
     <h1>WELCOME INTO PHP</h1>
     <?php
      $server = "Docker";
-     ?>
 
-     <p>the best server is : <?=$server?></p>
+     echo "the best server is : " . $server ;
+
+     ?>
 </body>
 </html>
