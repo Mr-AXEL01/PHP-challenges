@@ -1,0 +1,2 @@
+challenge 0 :  
+                ==> create a page and declare an array that have books informations (title , link , author , release_year) and loop on that array so wecan have the name of each book and the release year of immediatly after the name . 
